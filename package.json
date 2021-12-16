@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-vue-import-by-tag",
+  "name": "babel-plugin-vue-auto-import",
   "version": "1.0.0",
   "description": "根据标签自动导入vue组件",
   "main": "lib/index.js",
