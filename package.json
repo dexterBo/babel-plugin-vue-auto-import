@@ -1,0 +1,30 @@
+{
+  "name": "babel-plugin-vue-import-by-tag",
+  "version": "1.0.0",
+  "description": "自动导入vue组件",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "files": [
+    "src/",
+    "lib/",
+    "!/**/__test__/",
+    "README.md",
+    "index.js",
+    "package.json"
+  ],
+  "author": "dexter",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/helper-module-imports": "^7.0.0",
+    "anymatch": "^3.1.1",
+    "json-templater": "^1.2.0",
+    "lodash": "^4.17.15",
+    "vue-tags-loader": "^1.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.2",
+    "jest": "^24.9.0"
+  }
+}

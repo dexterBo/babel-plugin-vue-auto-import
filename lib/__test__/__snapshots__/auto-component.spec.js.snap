@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`自动导入 1`] = `
+"import _default from \\"babel-plugin-vue-import-by-tag/lib/runtime/register.js\\";
+import { Button } from 'element-ui';
+const _component = {
+  name: 'About',
+  components: {
+    [Button.name]: Button
+  }
+};
+const components = _component.components || {};
+
+_default([,,,,,,,,,,,,,,,,,,,,,,,,,,], components);
+
+_component.components = components;
+export default _component;"
+`;
