@@ -5,7 +5,7 @@
 npm i -D babel-plugin-vue-import-by-tag
 ```
 
-该工具需要配合`vue-tags-loader`使用
+该工具需要配合`vue-template-label-loader`使用
 
 使用:
 ```

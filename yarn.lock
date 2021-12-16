@@ -3750,9 +3750,9 @@ vue-ref@^2.0.0:
   resolved "https://registry.yarnpkg.com/vue-ref/-/vue-ref-2.0.0.tgz#483084d732abed11da796778a8266a3af0ea1a9c"
   integrity sha512-uKNKpFOVeWNqS2mrBZqnpLyXJo5Q+vnkex6JvpENvhXHFNBW/SJTP8vJywLuVT3DpxwXcF9N0dyIiZ4/NpTexQ==
 
-vue-tags-loader@^1.0.0:
+vue-template-label-loader@^1.0.0:
   version "1.0.0"
-  resolved "https://registry.yarnpkg.com/vue-tags-loader/-/vue-tags-loader-1.0.0.tgz#f03e88a49249ac799b0f33c59e0affccf8ad5163"
+  resolved "https://registry.yarnpkg.com/vue-template-label-loader/-/vue-template-label-loader-1.0.0.tgz#f03e88a49249ac799b0f33c59e0affccf8ad5163"
   integrity sha512-TX6xOIhWCNrYCICfSrzVSysX+wHZ/i0Svib3xKqot1AumIgrgpRzd5pHdfuMakVcjGtyR9VNGQbheK1YAyZRrg==
   dependencies:
     anymatch "^3.1.1"

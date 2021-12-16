@@ -21,7 +21,7 @@
     "anymatch": "^3.1.1",
     "json-templater": "^1.2.0",
     "lodash": "^4.17.15",
-    "vue-tags-loader": "^1.0.0"
+    "vue-template-label-loader": "^1.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",
