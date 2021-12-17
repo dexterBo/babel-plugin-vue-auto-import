@@ -11,6 +11,8 @@ npm i -D babel-plugin-vue-import-by-tag
 ```
 plugin: [
   ['babel-plugin-vue-import-by-tag'， {
+    excludeTags: ['HelloWord', 'App'], // 需要忽略的标签
+    exclude: ['**/App.vue'], // 需要忽略的路径
     lib(tag) {
       // 如果某个标签需要自动导入，请返回导入路径, 不需要则返回null
     },
